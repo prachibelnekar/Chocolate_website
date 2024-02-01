@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Chocolate_website/static/css/main.03c62bb3.css",
+    "main.js": "/Chocolate_website/static/js/main.0be9d209.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Chocolate_website/static/js/787.d4aba7ab.chunk.js",
+    "static/media/HomeImg.avif": "/Chocolate_website/static/media/HomeImg.f44244171b60cb67e12a.avif",
+    "static/media/AboutImg.avif": "/Chocolate_website/static/media/AboutImg.7346b77ccff3d3fe0e2b.avif",
+    "static/media/card_4.jpeg": "/Chocolate_website/static/media/card_4.8ca83f7f03e923f89ab3.jpeg",
+    "static/media/card_2.jpeg": "/Chocolate_website/static/media/card_2.37359ec5cc475756d898.jpeg",
+    "static/media/swastika_logo.webp": "/Chocolate_website/static/media/swastika_logo.aa261ac2469499a4af42.webp",
+    "static/media/card_6.jpeg": "/Chocolate_website/static/media/card_6.f5e8d025299390a3f149.jpeg",
+    "static/media/card_5.jpeg": "/Chocolate_website/static/media/card_5.9751f02cb058f665bad9.jpeg",
+    "index.html": "/Chocolate_website/index.html",
+    "main.03c62bb3.css.map": "/Chocolate_website/static/css/main.03c62bb3.css.map",
+    "main.0be9d209.js.map": "/Chocolate_website/static/js/main.0be9d209.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Chocolate_website/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03c62bb3.css",
+    "static/js/main.0be9d209.js"
+  ]
+}
